@@ -34,8 +34,12 @@ test:
 about:
   home: https://github.com/RomeoDespres/pkce
   summary: PKCE Python generator.
+  description: A simple Python module to generate PKCE code verifier and code challenge
   license: MIT
   license_file: LICENSE
+  license_family: MIT
+  dev_url: https://github.com/RomeoDespres/pkce
+  doc_url: https://github.com/RomeoDespres/pkce
 
 extra:
   recipe-maintainers:
